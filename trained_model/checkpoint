@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\PRAVEEN\\Desktop\\Capstone_ssd\\SSD-Tensorflow-master\\train_model_fine_tune\\model.ckpt-38961"
+all_model_checkpoint_paths: "C:\\Users\\PRAVEEN\\Desktop\\Capstone_ssd\\SSD-Tensorflow-master\\train_model_fine_tune\\model.ckpt-32178"
+all_model_checkpoint_paths: "C:\\Users\\PRAVEEN\\Desktop\\Capstone_ssd\\SSD-Tensorflow-master\\train_model_fine_tune\\model.ckpt-33876"
+all_model_checkpoint_paths: "C:\\Users\\PRAVEEN\\Desktop\\Capstone_ssd\\SSD-Tensorflow-master\\train_model_fine_tune\\model.ckpt-35570"
+all_model_checkpoint_paths: "C:\\Users\\PRAVEEN\\Desktop\\Capstone_ssd\\SSD-Tensorflow-master\\train_model_fine_tune\\model.ckpt-37263"
+all_model_checkpoint_paths: "C:\\Users\\PRAVEEN\\Desktop\\Capstone_ssd\\SSD-Tensorflow-master\\train_model_fine_tune\\model.ckpt-38961"
